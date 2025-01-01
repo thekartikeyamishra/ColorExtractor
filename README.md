@@ -85,6 +85,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 For questions or feedback, please contact:
 
 - **Author**: Kartikeya Mishra
-- **GitHub**: [your-username](https://github.com/thekartikeyamishra)
+- **GitHub**: [thekartikeyamishra](https://github.com/thekartikeyamishra)
 
 
